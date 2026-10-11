@@ -1,0 +1,66 @@
+"Phrases"
+{
+	"OP"
+	{
+		"en"			"Your exp: {GREEN}%i [%s for a open killing]"
+		"ru"			"Ваш опыт: {GREEN}%i [%s за первое убийство]"
+		"ua"			"Ваш досвід: {OLIVE}%i [%s за перше вбивство]"
+		"chi"			"你的经验值: {GREEN}%i [%s 通过首杀]"
+	}
+	"Penetrated"
+	{
+		"en"			"Your exp: {GREEN}%i [%s for a penetrated]"
+		"ru"			"Ваш опыт: {GREEN}%i [%s за прострел]"
+		"ua"			"Ваш досвід: {OLIVE}%i [%s за простріл]"
+		"chi"			"你的经验值: {GREEN}%i [%s 通过穿透击杀]"
+	}
+	"NoScope"
+	{
+		"en"			"Your exp: {GREEN}%i [%s no zoom]"
+		"ru"			"Ваш опыт: {GREEN}%i [%s без прицела]"
+		"ua"			"Ваш досвід: {GREEN}%i [%s без прицілу]"
+		"chi"			"你的经验值: {GREEN}%i [%s 通过盲狙]"
+	}
+	"Run"
+	{
+		"en"			"Your exp: {GREEN}%i [%s on the run]"
+		"ru"			"Ваш опыт: {GREEN}%i [%s на бегу]"
+		"ua"			"Ваш досвід: {GREEN}%i [%s на бігу]"
+		"chi"			"你的经验值: {GREEN}%i [%s 通过跑打击杀]"
+	}
+	"Jump"
+	{
+		"en"			"Your exp: {OLIVE}%i [%s a jump kill]"
+		"ru"			"Ваш опыт: {OLIVE}%i [%s в прыжке]"
+		"ua"			"Ваш досвід: {OLIVE}%i [%s в стрибку]"
+		"chi"			"你的经验值: {GREEN}%i [%s 通过空中击杀]"
+	}
+	"Flash"
+	{
+		"en"			"Your exp: %i [%s blinded by a light grenade]"
+		"ru"			"Ваш опыт: %i [%s с ослеплением от световой гранаты]"
+		"ua"			"Ваш досвід: %i [%s з осліпленням від светової гранати]"
+		"chi"			"你的经验值: {GREEN}%i [%s 通过致盲击杀]"
+	}
+	"Smoke"
+	{
+		"en"			"Your exp: {GRAY}%i [%s in the smoke]"
+		"ru"			"Ваш опыт: {GRAY}%i [%s в дым]"
+		"ua"			"Ваш досвід: {GRAY}%i [%s в дим]"
+		"chi"			"你的经验值: {GREEN}%i [%s 通过穿烟击杀]"
+	}
+	"LastClip"
+	{
+		"en"			"Your exp: {OLIVE}%i [%s a last clip]"
+		"ru"			"Ваш опыт: {OLIVE}%i [%s последним патроном]"
+		"ua"			"Ваш досвід: {OLIVE}%i [%s останнім патроном]"
+		"chi"			"你的经验值: {GREEN}%i [%s 最后一发子弹]"
+	}
+	"Distance"
+	{
+		"en"			"Your exp: {OLIVE}%i [%s for a distance]"
+		"ru"			"Ваш опыт: {OLIVE}%i [%s за дистанцию]"
+		"ua"			"Ваш досвід: {OLIVE}%i [%s за відстань]"
+		"chi"			"你的经验值: {GREEN}%i [%s 通过远距离击杀]"
+	}
+}
